@@ -13,9 +13,7 @@
 
 ## 💻Technologies Used: HTML/CSS 
 
-## 🔗 Live Demo  
-[3D-Earth]
-(https://sepehrnekooian.github.io/Iran/index.iran.html)
+## 🔗[ Live Demo ]https://sepehrnekooian.github.io/Photography-myself/
 
 ## 📬 How to Reach Me:
 
