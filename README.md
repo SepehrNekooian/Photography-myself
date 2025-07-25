@@ -1,11 +1,9 @@
-## A Photography Website
+## 💻 A Photography Website
 
 
 ![SepehrNekooian](https://github.com/user-attachments/assets/f2558603-56cf-47f6-9714-8e56bc705abb)
 
 
-
-## 💻 Project-17-18
 
 ## 👨‍💻 Developed By: Sepehr Nekooian
 
