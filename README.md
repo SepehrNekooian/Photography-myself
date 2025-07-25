@@ -11,9 +11,9 @@
 
 ## 📅 Created On: July 25, 2025
 
-## 💻Technologies Used: HTML/CSS 
+## 💻Technologies Used: HTML/CSS
 
-## 🔗[ Live Demo ]https://sepehrnekooian.github.io/Photography-myself/
+## 🔗[Demo Project](https://sepehrnekooian.github.io/Photography-myself/)
 
 ## 📬 How to Reach Me:
 
